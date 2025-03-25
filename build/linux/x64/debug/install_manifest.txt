@@ -1,0 +1,13 @@
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/tugas_3
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/Alvnvnc/StudioProjects/tugas_3/build/linux/x64/debug/bundle/data/flutter_assets/version.json
