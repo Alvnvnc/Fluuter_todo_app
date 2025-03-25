@@ -1,6 +1,3 @@
-Tentu! Berikut ini adalah versi README yang lebih **rapi, informatif, dan profesional** untuk proyek Todo App-mu:
-
----
 
 # 📝 Todo App
 
